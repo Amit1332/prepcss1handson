@@ -1,0 +1,22 @@
+body{
+    color:rgb(225, 27, 27);
+}
+a{
+    color:rgb(132, 0, 0)
+    
+}
+
+mark{
+    color:rgb(132, 0, 0)
+
+}
+#aa{
+    text-decoration: none;
+}
+ol li{
+    line-height: 35px;
+}
+ul li{
+    word-spacing: 8px;
+    letter-spacing: 3px;
+}
